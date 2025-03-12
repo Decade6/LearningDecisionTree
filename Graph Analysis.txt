@@ -1,0 +1,9 @@
+Training Set Size:
+
+As the size of the training set increases, the accuracy generally increases as well.
+However, accuracy drops after each incrementation of the training set size. Upon reaching 0.5, accuracy increases significantly.
+
+Accuracy Based Upon Depth:
+
+Accuracy starts fairly low while at a depth of one. At depths 2 and 3, accuracy increases significantly.
+However, after this point accuracy continuously decreases until hitting a depth of 9.
